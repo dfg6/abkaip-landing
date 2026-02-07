@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { CreditCard, Check, Star, Calculator, Gavel } from 'lucide-react';
+import { CreditCard, Check,Calculator, Gavel } from 'lucide-react';
 import { useScrollAnimation } from '@/hooks/useScrollAnimation';
 import { PenaltyCalculator } from '@/components/PenaltyCalculator';
 
