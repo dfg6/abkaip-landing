@@ -1,5 +1,5 @@
 "use client"
-
+declare module 'vaul';
 import * as React from "react"
 import { Drawer as DrawerPrimitive } from "vaul"
 
